@@ -1,0 +1,1 @@
+SELECT * FROM BD where id="!";
